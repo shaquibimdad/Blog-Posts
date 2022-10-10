@@ -1,6 +1,6 @@
 ---
 date: '2022-10-11'
-title: Blog :pencil: Test
+title: 'Blog :pencil: Test'
 Author: Shaquib
 ---
 
