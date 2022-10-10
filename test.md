@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
-title: 'Blog 📝 Test'
-Author: Shaquib
+title: 'Blog Test'
+Author: 'Shaquib'
 ---
 
 # test
