@@ -1,5 +1,5 @@
 ---
-date: 2022-10-11
+date: '2022-10-11'
 title: Holy Jesus
 Author: Shaquib
 ---
