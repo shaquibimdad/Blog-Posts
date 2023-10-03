@@ -7,7 +7,7 @@ time: '3 min read'
 ---
 
 
-# Welcome to My Blog: Let's Begin the Journey!
+# Let's Begin the Journey!
 
 ##### Hello and welcome to my blog! This first post marks the start of an exciting journey where I'll be sharing my adventures, experiences, and passions.
 
@@ -17,4 +17,4 @@ Through each post, my goal is to engage, inspire, and connect with you. From bea
 
 Stay tuned for interesting stories, deep thoughts, and a peek into life's beauty!
 
-## Welcome aboard! 😄
+### Welcome aboard! 😄
